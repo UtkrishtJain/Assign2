@@ -15,3 +15,9 @@ f()
 print("x in main: ",x)
 """
 
+# OUTPUT
+"""
+Before calling g:   42
+After calling g:   42
+x in main:  43
+"""
